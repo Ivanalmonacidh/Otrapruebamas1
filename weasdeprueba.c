@@ -13,4 +13,3 @@ int main(void) {  // Corrección de la firma de main()
     
     return 0;
 }
-// Hola carlita
