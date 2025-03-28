@@ -13,3 +13,5 @@ int main(void) {  // Corrección de la firma de main()
     
     return 0;
 }
+//Segunda prueba de esta maldita basura??? BHJGHIFHGWVGAHKBASK SM, TE AMO MAMÁ, ESTOY VOLVIENDOME LOCO
+//estoy aun mas loco
