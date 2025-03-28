@@ -15,3 +15,5 @@ int main(void) {  // Corrección de la firma de main()
 }
 //Segunda prueba de esta maldita basura??? BHJGHIFHGWVGAHKBASK SM, TE AMO MAMÁ, ESTOY VOLVIENDOME LOCO
 //estoy aun mas loco
+//Estos cambios ahora se reflejan en el main, y no en el primertrabajador
+//Estoy todavia aun mas loco
